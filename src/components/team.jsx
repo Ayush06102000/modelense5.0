@@ -129,7 +129,7 @@ const TeamSection = () => {
             <img src="deep3.jpeg" class="secondImg" alt=""></img>
             <img src="deep3.jpeg" class="thirdImg" alt=""></img>
             <div className="overlay">
-            <h1>Deepanshu Sharma</h1>
+            <h1>Deeepanshu Sharma</h1>
             <p>Backend Developer</p>
             </div>
         </div>
